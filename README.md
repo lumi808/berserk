@@ -4,6 +4,7 @@
 Камера: 3rd Person
 Управление: WASD
 Reference: Dark Souls, Bloodbourne
+Trello Link: https://trello.com/invite/berserk51/ATTIefd7db6b02772dd734abcf52c7ffac09F2AD439F
 
 Механики:
 
